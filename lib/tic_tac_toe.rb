@@ -125,11 +125,11 @@ class TicTacToe
       turn
     end
     if won?
-<<<<<<< HEAD
+ HEAD
       puts "Congratulations #{winner}!"
     else
       puts "Cat's Game!"
-=======
+
       puts "Congrats you are the champion"
     else
       puts "the game ended in a draw"
